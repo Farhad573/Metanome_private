@@ -1,4 +1,0 @@
-[submodule "frontend/src"]
-	path = frontend/src
-	url = https://github.com/Farhad573/Metanome_frontend_private
-	branch = master
